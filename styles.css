@@ -1,0 +1,13 @@
+body{
+text-align: center;
+}
+
+label{
+    display: block;
+    padding: .5rem;
+}
+
+button{
+    padding: .3rem;
+    cursor: pointer;
+}
